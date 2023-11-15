@@ -27,3 +27,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/train_2.2_part1_incapsulation_inheritance.iml
+/out/
+/.idea/
